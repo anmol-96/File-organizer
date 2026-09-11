@@ -1,0 +1,30 @@
+2026-09-09 13:20:06.138770  10.webp  ->   Images/
+2026-09-09 13:20:06.139056  3.jpg  ->   Images/
+2026-09-09 13:20:06.139330  4.jpg  ->   Images/
+2026-09-09 13:20:06.139553  a4.jpeg  ->   Images/
+2026-09-09 13:20:06.139924  contact.json  ->   Code/
+2026-09-09 13:20:06.140177  contact_book.py  ->   Code/
+2026-09-09 13:20:06.140468  GSoC_2027_Roadmap (1).pdf  ->   PDFs/
+2026-09-09 13:20:06.140711  GSoC_2027_Roadmap (2).pdf  ->   PDFs/
+2026-09-09 13:20:06.140940  GSoC_2027_Roadmap.pdf  ->   PDFs/
+2026-09-09 13:20:06.141181  ilovepdf_pages-to-jpg (1).zip  ->   Others/
+2026-09-09 13:20:06.141459  my_dream.txt  ->   Textfiles/
+2026-09-09 13:20:06.141674  new_contact.json  ->   Code/
+2026-09-09 13:20:06.141909  README.md  ->   Textfiles/
+2026-09-09 13:20:06.142114  VID-20240418-WA0034.mp4  ->   Videos/
+2026-09-09 13:20:06.142293  VID20230326101258.mp4  ->   Videos/
+[2026-09-11 19:05:59] 10.webp → Images/
+[2026-09-11 19:05:59] 3.jpg → Images/
+[2026-09-11 19:05:59] 4.jpg → Images/
+[2026-09-11 19:05:59] a4.jpeg → Images/
+[2026-09-11 19:05:59] contact.json → Code/
+[2026-09-11 19:05:59] contact_book.py → Code/
+[2026-09-11 19:05:59] GSoC_2027_Roadmap (1).pdf → PDFs/
+[2026-09-11 19:05:59] GSoC_2027_Roadmap (2).pdf → PDFs/
+[2026-09-11 19:05:59] GSoC_2027_Roadmap.pdf → PDFs/
+[2026-09-11 19:05:59] ilovepdf_pages-to-jpg (1).zip → Others/
+[2026-09-11 19:05:59] my_dream.txt → TextFiles/
+[2026-09-11 19:05:59] new_contact.json → Code/
+[2026-09-11 19:05:59] README.md → TextFiles/
+[2026-09-11 19:05:59] VID-20240418-WA0034.mp4 → Videos/
+[2026-09-11 19:05:59] VID20230326101258.mp4 → Videos/
