@@ -16,7 +16,8 @@ A simple Python-based file organizer that automatically sorts files into differe
 ## Requirements
 
 - Python 3.x
-- No external libraries required
+- pytest
+- pytest-cov
 
 ## Usage
 
